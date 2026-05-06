@@ -23,3 +23,7 @@ The project demonstrates:
 - MVVM
 - JSON Serialization
 - WPF
+  
+## Documentation
+
+Detailed coursework documentation is available in the `/docs` folder.
